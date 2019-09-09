@@ -2,4 +2,4 @@
 
 ## Progress
 http://learnyouahaskell.com/starting-out
-An intro to lists
+Texas ranges
