@@ -2,4 +2,4 @@
 
 ## Progress
 http://learnyouahaskell.com/starting-out
-Baby's first functions
+An intro to lists
